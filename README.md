@@ -1,6 +1,6 @@
 # Task-1-Predict-the-percentage-of-an-student-based-on-the-no.-of-study-hours
 
-This task is part of my internship with The Sparks Foundation. We were each given a dataset to work with. The dataset was brief and clean. It only had two columns: Hours and Scores. My assumption was that the number of hours spent studying must be related to your grade. I used Python to further analyze my assumption.
+The dataset was brief and clean. It only had two columns: Hours and Scores. My assumption was that the number of hours spent studying must be related to your grade. I used Python to further analyze my assumption.
 
 Aim:
 To predict the percentage of marks of a student based on the number of hours they studied
